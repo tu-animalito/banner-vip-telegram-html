@@ -1,4 +1,3 @@
-# banner-vip-telegram-html
 # Widget de Banner VIP para Telegram 🏇
 
 Este repositorio contiene el código fuente de un banner promocional optimizado para sitios web de pronósticos hípicos. 
